@@ -1,0 +1,24 @@
+{
+    "name": "asmitta-01/binance-pay-api-php",
+    "description": "A helper for Binance Pay API in PHP",
+    "homepage": "https://github.com/asmitta-01/binance-pay-api-php",
+    "type": "library",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brayan Tiwa",
+            "email": "tiwabrayan@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1",
+        "psr/log": "^1|^2|^3",
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "BinancePay\\": "src/BinancePay/"
+        }
+    }
+}
