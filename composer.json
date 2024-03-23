@@ -3,6 +3,12 @@
     "description": "A helper for Binance Pay API in PHP",
     "homepage": "https://github.com/asmitta-01/binance-pay-api-php",
     "type": "library",
+    "keywords": [
+        "php",
+        "binance",
+        "binancepay",
+        "merchant.binance.com"
+    ],
     "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
