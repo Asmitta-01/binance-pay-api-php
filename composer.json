@@ -1,5 +1,5 @@
 {
-    "name": "asmitta-01/binance-pay-api-php",
+    "name": "asmitta-01/binance-pay",
     "description": "A helper for Binance Pay API in PHP",
     "homepage": "https://github.com/asmitta-01/binance-pay-api-php",
     "type": "library",
